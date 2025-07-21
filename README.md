@@ -1,6 +1,7 @@
 # 🎉 Linux Fundamentals Part 3 – Completed! 
 
-![Linux Completion Badge](./screenshot.png)
+![Linux Completion Badge](<img width="803" height="732" alt="image" src="https://github.com/user-attachments/assets/c1abaa7b-2d24-4791-b24b-1e4d1fa97b54" />
+)
 
 I’ve successfully completed **Linux Fundamentals Part 3** on TryHackMe. This room deepened my knowledge in essential Linux commands, permissions, and basic administrative tasks.
 
@@ -27,4 +28,5 @@ As part of building my cybersecurity and Linux administration foundations, I’m
 
 *Screenshot of my achievement:*
 
-![Linux Fundamentals Part 3](./screenshot.png)
+![Linux Fundamentals Part 3](<img width="803" height="732" alt="image" src="https://github.com/user-attachments/assets/bc970e12-03a0-4952-a0cc-76b50634a028" />
+)
